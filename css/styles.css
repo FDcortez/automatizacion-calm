@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Noto Sans', sans-serif;
   background: #000080; 
@@ -124,7 +128,7 @@ section {
 /* background img */
 
 .section1 {
-    background-image: url(../img/section1.jpg);
+    background-image: url(../img/section1.svg);
 }
 
 /* button */
